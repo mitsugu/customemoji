@@ -1,2 +1,3 @@
-With the exception of images in the directory "Excluded from license", these images are free copyrighted works.
+With the exception of images in the directorys "Excluded from license" and "nyanpuppu", these images are free copyrighted works.
 Except for commercial use, you may freely use, reproduce, and redistribute it with or without any modification, but all without warranty.
+If the license name is a directory name, the license applies to files in that directory.
