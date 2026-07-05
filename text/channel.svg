@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="130" height="36" viewBox="0 0 130 36">
+  <!-- 背景の角丸四角形 -->
+  <rect width="130" height="36" rx="18" fill="#111111"/>
+  
+  <!-- 中央のテキスト -->
+  <text x="65" y="23" font-family="'Helvetica Neue', Arial, 'Hiragino Kaku Gothic ProN', 'Hiragino Sans', Meiryo, sans-serif" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="1">チャンネル登録</text>
+</svg>
